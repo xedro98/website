@@ -14,5 +14,3 @@ fields:
 - type: text
   name: permalink
   label: permalink
-pages:
-- _posts/why-you-should-stop-using-google-analytics-on-your-website.md
